@@ -1,29 +1,31 @@
 # School Page
 
+## Instructions:  To view the web page created please visit the github pages site:  https://ally2211.github.io/atlas-web-development/css_advanced/
+
 ## Header
-- **Menu:** List the main sections (e.g., Home, About, Courses)
-- **Logo:** School's logo image (insert the link or a relative path to the image file)
+- **Menu:**  There 3 menu selections:  Courses, Pricing and Login as well as the Homepage that is described below.
+
+- **Logo:** School's logo image <p><img src='images/logo.png'></p>
 
 ## Main Part
-- **Text Header:** Brief introduction or headline of the school
+- **Text Header:** Brief introduction to encourage to "Get Schooled"  and click the button to "Register for Free"
 - **Registration Button:** [Register for Free](#registration-link)
 
 ## Professional Team
 - **Avatars with Names and Titles:**
-  - ![Avatar](path-to-avatar1.jpg) **Name 1** - Title 1
-  - ![Avatar](path-to-avatar2.jpg) **Name 2** - Title 2
-  - ![Avatar](path-to-avatar3.jpg) **Name 3** - Title 3
-  - ![Avatar](path-to-avatar4.jpg) **Name 4** - Title 4
+  - **Phillip Massey** - Smile of the Year
+  - **Nannie Lawrence** - Best Little Smile
+  - **Bruce Walters** - Best Friend Smile
+  - **Henry Huges** - 24h smiles winner
 
 ## Testimonials
-- ![Avatar](path-to-testimonial-avatar.jpg)
-  > "This is a testimonial text highlighting the experience or feedback from the person."
+  > "This is a testimonial text highlighting the experience and feedback from the person."
 
 ## Tutorials
-- **Tutorial 1:** Description or Link
-- **Tutorial 2:** Description or Link
-- **Tutorial 3:** Description or Link
-- **Tutorial 4:** Description or Link
+- **Tutorial 1:** Diagonal Smile
+- **Tutorial 2:** Sad Smile
+- **Tutorial 3:** Natural Smile
+- **Tutorial 4:** Happy Smile
 
 ## Free Membership
 - **Benefits:**
@@ -44,4 +46,4 @@
 
 ## Footer
 - **Social Links:** [Facebook](#), [Twitter](#), [Instagram](#)
-- **Logo:** Footer logo image (insert the link or a relative path to the image file)
+- **Logo:** Footer logo image
